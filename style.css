@@ -13,7 +13,7 @@ body {
 }
 
 #numberItSelf {
-    margin-top: 20%;
+    margin-top: 10%;
     font-size: 80px;
     text-align: center;
     color: black;
@@ -23,10 +23,19 @@ body {
 
 .buttonNum {
     text-align: center;
-    margin-top:5%;
+    margin: top 5px;
     font-size: 60px;
     padding: 0%;
     border-radius: 10px;
+}
+
+#japaneseNumberItSelf {
+    margin-top: 10%;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+    background:white;
+    width:30%;
 }
 
 @media only screen and (max-width: 600px) {
