@@ -43,10 +43,16 @@ ul li {
     direction: none;
 }  
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 button {
     font-size: 200%;
     background: white;
     border-color: white;
+    cursor: pointer;
 }
 
 button:hover {
